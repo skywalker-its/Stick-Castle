@@ -1,2 +1,2 @@
-# Stick-Castle
-In this project we can draw a castle of sticks by using rectangles, triangles and squares.
+# p5.play-boilerplate
+Boiler plate for p5.play
